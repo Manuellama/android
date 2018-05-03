@@ -464,7 +464,7 @@
   <project path="system/bt" name="platform/system/bt" groups="pdk" />
 
   <project path="org/system/core" name="platform/system/core" groups="pdk" />
-
+ <project path="system/core" name="Schischu/aosp_android_system_core" groups="pdk" remote="github" revision="android-6.0.1_r17_stingray" />
   <project path=".org/system/extras" name="platform/system/extras" groups="pdk" />
   <!--project path=".org/system/decatf_extras" name="Decatf/android_system_extras" groups="pdk" remote="github" revision="aosp-6.0" /-->
   <project path="system/extras" name="platform/system/extras" groups="pdk" />
